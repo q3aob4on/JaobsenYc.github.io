@@ -1,0 +1,59 @@
+---
+title: 吕立青的博客
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/:year-:month-:day-:title/"
+paginate: 10
+markdown: kramdown
+encoding: utf-8
+author:
+  name: 吕立青
+  email: lv460051518@gmail.com
+  link: https://blog.jimmylv.info
+  weibo: https://weibo.com/liqing215
+  github: https://github.com/JimmyLv
+  zhihu: https://www.zhihu.com/people/JimmyLv
+  juejin: https://juejin.im/user/5628752900b07a1836200154
+  stackoverflow: https://stackoverflow.com/users/5871340/jimmylv
+description: 想做产品，却误入程序世界爱上设计的摄影师。
+url: https://blog.jimmylv.info
+repo: https://github.com/JimmyLv/jimmylv.github.io
+rss: "/pages/atom.xml"
+gavatar: "/public/img/gavatar.jpg"
+favicon: "/public/img/favicon.ico"
+ga:
+  id: UA-74789926-1
+  url: https://blog.jimmylv.info
+disqus:
+  shortname: gotoshare
+active: 前端
+cates:
+- React
+- PKM
+locals:
+  ideas: 想法
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+  search: 搜索
+gems:
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll/tagging
+- jekyll-tagging-related_posts
+- jekyll-seo-tag
+- jekyll-mermaid
+exclude:
+- ".idea/"
+- ".github/"
+- ".travis/"
+- node_modules/
+- themes/
+- _posts/演讲/assets
