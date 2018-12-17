@@ -1,22 +1,23 @@
+---
 layout: post
 title: As-Level Consumer and Producer Surplus Group Project
 categories: [Economics]
 tags: [Course work, Economics, Presentaion]
 published: True
-
+---
 > 「持续行动，持续反思，持续进步。」—— via. 敏捷学习宣言
 
 ## Basic Defination
 
-#### Consumer Surplus
+### Consumer Surplus
 
 > The **difference** between the **value** a consumer places on units **consumed** and the payment needed to **actually purchase** that product.
 >![Consumer surplus](http://jaobsenyc-blog-1253167432.picbj.myqcloud.com/%E5%9B%BE%E5%BA%8A/img/2018-12-17/%E5%9B%BE%E7%89%871.png?imageMogr2/thumbnail/400x350!)
-####Producer Surplus
+###Producer Surplus
 
 > The **difference** between the price a producer is **willing to accept** and what is **actually paid**.
 >![Producer surplus](http://jaobsenyc-blog-1253167432.picbj.myqcloud.com/%E5%9B%BE%E5%BA%8A/img/2018-12-17/%E5%9B%BE%E7%89%872.png?imageMogr2/thumbnail/400x350!)
-#### Community surplus
+### Community surplus
 >The combination of consumer surplus and producer surplus
 >![Producer surplus](http://jaobsenyc-blog-1253167432.picbj.myqcloud.com/%E5%9B%BE%E5%BA%8A/img/2018-12-17/%E5%9B%BE%E7%89%873.png?imageMogr2/thumbnail/400x350!)
 
