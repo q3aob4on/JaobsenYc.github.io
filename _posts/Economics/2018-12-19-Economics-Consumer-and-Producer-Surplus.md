@@ -13,6 +13,7 @@ published: True
 
 > The **difference** between the **value** a consumer places on units **consumed** and the payment needed to **actually purchase** that product.
 >![Consumer surplus](http://jaobsenyc-blog-1253167432.picbj.myqcloud.com/%E5%9B%BE%E5%BA%8A/img/2018-12-17/%E5%9B%BE%E7%89%871.png?imageMogr2/thumbnail/400x350!)
+
 ###Producer Surplus
 
 > The **difference** between the price a producer is **willing to accept** and what is **actually paid**.
