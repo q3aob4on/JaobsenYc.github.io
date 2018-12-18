@@ -9,7 +9,7 @@ published: True
 
 [slide]
 
-# Progressive Web Applications (PWAs)
+# 哈哈哈哈哈哈哈 (PWAs)
 
 ## Build Native-like Mobile Web App
 
