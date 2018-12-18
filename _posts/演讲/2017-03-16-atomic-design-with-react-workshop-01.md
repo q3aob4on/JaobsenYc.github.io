@@ -39,7 +39,7 @@ yarn install && yarn start
 
 # 🐵 唠嗑唠嗑
 
-- 不讲什么：Webpack/ES6/Styling/Linter
+- 不讲哈什么：Webpack/ES6/Styling/Linter
 - 脚手架：`create-react-app` & `react-app-stencil`
 - 观念在先，实战为王 🔨
 - Pair Programming 👬
